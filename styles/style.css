@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+h1 {
+    color: rgb(187, 41, 41);
+}
+
+
+/* GALERIA */
+
+
+.figure-galeria {
+    color: violet;
+}
